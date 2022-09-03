@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @z4b3l
+- 👀 I’m interested in ... C#, Python, Game Development.
+- 🌱 I’m currently learning ... C#
+- 💞️ I’m looking to collaborate on ... Free atm.
+- 📫 How to reach me ... Freshredbull1@gmail.com 
